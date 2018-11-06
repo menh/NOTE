@@ -7,3 +7,30 @@ Ax = b 有解 <=> r(A) = r(A|b)
 Ax = b 唯一解 <=> r(A) = r(A|b) = n
 Ax = b 无穷解 <=> r(A) = r(A|b) < n
 Ax = b 无解 <=> r(A) + 1 = r(A|b)
+
+
+相似证明
+ 有n个不同的特征值 =》
+ AT = A =》
+ n个无关特征向量 《=》
+
+相似必要条件
+  |A| = |B|
+  r(A) = r(B)
+  |lammudaE - A| = |lanmudaE - B|  特征值相等
+  和aii = 和bii
+
+  A ~ B
+  A+kE ~ B+kE
+
+  二次型的秩
+  r(f) = r(A) = p+q
+
+
+  正定必要条件
+   aii > 0
+   顺序主子式全大于0 充要
+   特征值大于零 充要
+   A 合同 单位矩阵
+   p = n
+   A正定 A-1 正定
