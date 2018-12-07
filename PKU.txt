@@ -8,6 +8,10 @@ https://blog.csdn.net/wydyd110/article/details/81228866
 计算机网络通信概述题库
 https://blog.csdn.net/wydyd110/article/details/81290998 33-41
 
+计算机网络数据链路层题库
+https://blog.csdn.net/wydyd110/article/details/81316970 没做完
+
+
 数据结构概述
 https://blog.csdn.net/wydyd110/article/details/81329656
 
@@ -21,8 +25,17 @@ https://blog.csdn.net/wydyd110/article/details/81353038
 操作系统运行环境题库
 https://blog.csdn.net/wydyd110/article/details/81353250
 
+操作系统进程线程题库
+https://blog.csdn.net/wydyd110/article/details/81358208 没做完
+
+操作系统文件系统题库
+https://blog.csdn.net/wydyd110/article/details/81359424 没做完
+
 计算机基本结构题库
 https://blog.csdn.net/wydyd110/article/details/81381281
 
 指令系统体系结构题库
 https://blog.csdn.net/wydyd110/article/details/81382073
+
+输入输出设备题库
+https://blog.csdn.net/wydyd110/article/details/81382294
