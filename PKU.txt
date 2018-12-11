@@ -26,7 +26,10 @@ https://blog.csdn.net/wydyd110/article/details/81353038
 https://blog.csdn.net/wydyd110/article/details/81353250
 
 操作系统进程线程题库
-https://blog.csdn.net/wydyd110/article/details/81358208 没做完
+https://blog.csdn.net/wydyd110/article/details/81358208
+
+操作系统处理器调度题库
+https://blog.csdn.net/wydyd110/article/details/81358412 未作
 
 操作系统文件系统题库
 https://blog.csdn.net/wydyd110/article/details/81359424 没做完
@@ -36,6 +39,9 @@ https://blog.csdn.net/wydyd110/article/details/81381281
 
 指令系统体系结构题库
 https://blog.csdn.net/wydyd110/article/details/81382073
+
+算术逻辑单元题库
+https://blog.csdn.net/wydyd110/article/details/81382100
 
 输入输出设备题库
 https://blog.csdn.net/wydyd110/article/details/81382294
