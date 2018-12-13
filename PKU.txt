@@ -11,6 +11,8 @@ https://blog.csdn.net/wydyd110/article/details/81290998 33-41
 计算机网络数据链路层题库
 https://blog.csdn.net/wydyd110/article/details/81316970 没做完
 
+计算机网络网络层题库
+https://blog.csdn.net/wydyd110/article/details/81317246 没做完
 
 数据结构概述
 https://blog.csdn.net/wydyd110/article/details/81329656
@@ -18,6 +20,11 @@ https://blog.csdn.net/wydyd110/article/details/81329656
 数据结构线性表题库
 https://blog.csdn.net/wydyd110/article/details/81329966
 
+数据结构栈与队列题库
+https://blog.csdn.net/wydyd110/article/details/81330194
+
+数据结构期末题
+https://blog.csdn.net/wydyd110/article/details/84791382 meizuowan
 
 操作系统概述题库
 https://blog.csdn.net/wydyd110/article/details/81353038
@@ -29,7 +36,10 @@ https://blog.csdn.net/wydyd110/article/details/81353250
 https://blog.csdn.net/wydyd110/article/details/81358208
 
 操作系统处理器调度题库
-https://blog.csdn.net/wydyd110/article/details/81358412 未作
+https://blog.csdn.net/wydyd110/article/details/81358412
+
+操作系统同步机制题库
+https://blog.csdn.net/wydyd110/article/details/81358601 没做完
 
 操作系统文件系统题库
 https://blog.csdn.net/wydyd110/article/details/81359424 没做完
@@ -48,3 +58,6 @@ https://blog.csdn.net/wydyd110/article/details/81382252
 
 输入输出设备题库
 https://blog.csdn.net/wydyd110/article/details/81382294
+
+乘法器和除法器题库
+https://blog.csdn.net/wydyd110/article/details/81382126
