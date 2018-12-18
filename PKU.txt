@@ -12,7 +12,10 @@ https://blog.csdn.net/wydyd110/article/details/81290998 33-41
 https://blog.csdn.net/wydyd110/article/details/81316970 mooc结束
 
 计算机网络网络层题库
-https://blog.csdn.net/wydyd110/article/details/81317246 没做完
+https://blog.csdn.net/wydyd110/article/details/81317246 mooc结束
+
+计算机网络传输层题库
+https://blog.csdn.net/wydyd110/article/details/81317476 mooc结束
 
 数据结构概述
 https://blog.csdn.net/wydyd110/article/details/81329656
@@ -22,6 +25,18 @@ https://blog.csdn.net/wydyd110/article/details/81329966
 
 数据结构栈与队列题库
 https://blog.csdn.net/wydyd110/article/details/81330194
+
+数据结构字符串题库
+https://blog.csdn.net/wydyd110/article/details/81330324
+
+数据结构二叉树题库
+https://blog.csdn.net/wydyd110/article/details/81330526
+
+数据结构树题库
+https://blog.csdn.net/wydyd110/article/details/81333475
+
+数据结构图题库
+https://blog.csdn.net/wydyd110/article/details/81333722
 
 数据结构期末题
 https://blog.csdn.net/wydyd110/article/details/84791382 meizuowan
@@ -43,6 +58,9 @@ https://blog.csdn.net/wydyd110/article/details/81358601 没做完
 
 操作系统文件系统题库
 https://blog.csdn.net/wydyd110/article/details/81359424
+
+操作系统I/O系统题库
+https://blog.csdn.net/wydyd110/article/details/81359877
 
 计算机基本结构题库
 https://blog.csdn.net/wydyd110/article/details/81381281
